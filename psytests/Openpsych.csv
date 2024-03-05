@@ -1,0 +1,51 @@
+No;text;label_ocean;key
+1;I am the life of the party;E;1
+2;I don't talk a lot;E;-1
+3;I feel comfortable around people;E;1
+4;I keep in the background;E;-1
+5;I start conversations;E;1
+6;I have little to say;E;-1
+7;I talk to a lot of different people at parties;E;1
+8;I don't like to draw attention to myself;E;-1
+9;I don't mind being the center of attention;E;1
+10;I am quiet around strangers;E;-1
+11;I get stressed out easily;N;1
+12;I am relaxed most of the time;N;-1
+13;I worry about things;N;1
+14;I seldom feel blue;N;-1
+15;I am easily disturbed;N;1
+16;I get upset easily;N;1
+17;I change my mood a lot;N;1
+18;I have frequent mood swings;N;1
+19;I get irritated easily;N;1
+20;I often feel blue;N;1
+21;I feel little concern for others;A;-1
+22;I am interested in people;A;1
+23;I insult people;A;-1
+24;I sympathize with others' feelings;A;1
+25;I am not interested in other people's problems;A;-1
+26;I have a soft heart;A;1
+27;I am not really interested in others;A;-1
+28;I take time out for others;A;1
+29;I feel others' emotions;A;1
+30;I make people feel at ease;A;1
+31;I am always prepared;C;1
+32;I leave my belongings around;C;-1
+33;I pay attention to details;C;1
+34;I make a mess of things;C;-1
+35;I get chores done right away;C;1
+36;I often forget to put things back in their proper place;C;-1
+37;I like order;C;1
+38;I shirk my duties;C;-1
+39;I follow a schedule;C;1
+40;I am exacting in my work;C;1
+41;I have a rich vocabulary;O;1
+42;I have difficulty understanding abstract ideas;O;-1
+43;I have a vivid imagination;O;1
+44;I am not interested in abstract ideas;O;-1
+45;I have excellent ideas;O;1
+46;I do not have a good imagination;O;-1
+47;I am quick to understand things;O;1
+48;I use difficult words;O;1
+49;I spend time reflecting on things;O;1
+50;I am full of ideas;O;1

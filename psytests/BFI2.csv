@@ -1,0 +1,61 @@
+No,text,label_ocean,key,label_fa
+1,"Is outgoing, sociable",E,1,E3
+2,"Is compassionate, has a soft heart",A,1,A13
+3,Tends to be disorganized,C,-1,C25
+4,"Is relaxed, handles stress well",N,-1,N37
+5,Has few artistic interests,O,-1,O54
+6,Has an assertive personality,E,1,E6
+7,"Is respectful, treats others with respect",A,1,A17
+8,Tends to be lazy,C,-1,C31
+9,Stays optimistic after experiencing a setback,N,-1,N44
+10,Is curious about many different things,O,1,O52
+11,Rarely feels excited or eager,E,-1,E11
+12,Tends to find fault with others,A,-1,A23
+13,"Is dependable, steady",C,1,C36
+14,"Is moody, has up and down mood swings",N,1,N48
+15,"Is inventive, finds clever ways to do things",O,1,O58
+16,Tends to be quiet,E,-1,E1
+17,Feels little sympathy for others,A,-1,A16
+18,"Is systematic, likes to keep things in order",C,1,C26
+19,Can be tense,N,1,N40
+20,"Is fascinated by art, music, or literature",O,1,O53
+21,"Is dominant, acts as a leader",E,1,E5
+22,Starts arguments with others,A,-1,A20
+23,Has difficulty getting started on tasks,C,-1,C32
+24,"Feels secure, comfortable with self",N,-1,N43
+25,"Avoids intellectual, philosophical discussions",O,-1,O51
+26,Is less active than other people,E,-1,E12
+27,Has a forgiving nature,A,1,A22
+28,Can be somewhat careless,C,-1,C33
+29,"Is emotionally stable, not easily upset",N,-1,N45
+30,Has little creativity,O,-1,O57
+31,"Is sometimes shy, introverted",E,-1,E4
+32,Is helpful and unselfish with others,A,1,A15
+33,Keeps things neat and tidy,C,1,C27
+34,Worries a lot,N,1,N38
+35,Values art and beauty,O,1,O55
+36,Finds it hard to influence people,E,-1,E8
+37,Is sometimes rude to others,A,-1,A19
+38,"Is efficient, gets things done",C,1,C29
+39,Often feels sad,N,1,N41
+40,"Is complex, a deep thinker",O,1,O50
+41,Is full of energy,E,1,E9
+42,Is suspicious of others’ intentions,A,-1,A24
+43,"Is reliable, can always be counted on",C,1,C35
+44,Keeps their emotions under control,N,-1,N47
+45,Has difficulty imagining things,O,-1,O60
+46,Is talkative,E,1,E2
+47,Can be cold and uncaring,A,-1,A14
+48,"Leaves a mess, doesn’t clean up",C,-1,C28
+49,Rarely feels anxious or afraid,N,-1,N39
+50,Thinks poetry and plays are boring,O,-1,O56
+51,Prefers to have others take charge,E,-1,E7
+52,"Is polite, courteous to others",A,1,A18
+53,"Is persistent, works until the task is finished",C,1,C30
+54,"Tends to feel depressed, blue",N,1,N42
+55,Has little interest in abstract Ideas,O,-1,O49
+56,Shows a lot of Enthusiasm,E,1,E10
+57,Assumes the best about people,A,1,A21
+58,Sometimes behaves irresponsibly,C,-1,C34
+59,"Is temperamental, gets emotional easily",N,1,N46
+60,"Is original, comes up with new Ideas",O,1,O59
